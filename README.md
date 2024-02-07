@@ -1,2 +1,3 @@
-# Cancer_immune_models
-PhysiCell cancer immune models
+# Cancer immune models
+
+This Github repository contains projects for the study of cancer immune models.
